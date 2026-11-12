@@ -35,11 +35,11 @@ ai-job-analyzer/
 
 ## Tecnologias
 
-Python 3.12+, Spring Boot (Java 21, Maven), PostgreSQL, Flyway, React com TypeScript e Vite, e a API da OpenAI.
+Python 3.12+, Spring Boot (Java 25, Maven), PostgreSQL, Flyway, React com TypeScript e Vite, e a API da OpenAI.
 
 ## Pré-requisitos
 
-Git, Python 3.12 ou superior, JDK 21 (não apenas o JRE), Node.js LTS com npm, PostgreSQL instalado e iniciado como serviço, e uma chave da API da OpenAI.
+Git, Python 3.12 ou superior, JDK 25 (não apenas o JRE), Node.js LTS com npm, PostgreSQL instalado e iniciado como serviço, e uma chave da API da OpenAI.
 
 ## Configuração
 

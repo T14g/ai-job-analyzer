@@ -1,0 +1,25 @@
+---
+description: Regras de trabalho do repositório ai-job-analyzer
+alwaysApply: true
+---
+
+# Projeto
+
+- Proponha um plano curto e espere aprovação antes de editar arquivos.
+- Faça mudanças pequenas e focadas. Não refatore fora do escopo pedido.
+- Explique decisões não óbvias em 2 a 3 frases.
+- Nunca coloque segredos no código. Use variáveis de ambiente.
+- Escreva testes junto com o código novo.
+- Não adicione dependências sem justificar.
+
+Segredo no código:
+
+```python
+openai_api_key = "sk-..."
+```
+
+Variável de ambiente:
+
+```python
+openai_api_key = os.environ["OPENAI_API_KEY"]
+```
